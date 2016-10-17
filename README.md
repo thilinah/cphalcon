@@ -133,7 +133,7 @@ Current Build Status
 
 Phalcon Framework is built under the Travis CI service. Every commit pushed to this repository will queue a build into the continuous integration service and will run all PHPUnit tests to ensure that everything is going well and the project is stable. The current build status is:
 
-[![Build Status](https://travis-ci.org/phalcon/cphalcon.svg?branch=master)](https://travis-ci.org/phalcon/cphalcon)
+[![Build Status](https://travis-ci.org/thilinah/cphalcon.svg?branch=master)](https://travis-ci.org/phalcon/cphalcon)
 
 Meet the Incubator
 ------------------
