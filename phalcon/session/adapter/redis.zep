@@ -119,7 +119,6 @@ class Redis extends Adapter
 	public function read(sessionId) -> string
 	{
 	    var res;
-
         let res = (string) this->_redis->get(sessionId, this->_lifetime);
         return res;
 	}
